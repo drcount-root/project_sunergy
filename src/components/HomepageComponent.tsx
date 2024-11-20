@@ -20,7 +20,7 @@ const HomepageComponent = () => {
       className="bg-hero bg-no-repeat bg-cover rounded-3xl h-[90vh] m-4 p-6  text-white"
       style={{
         clipPath:
-          "polygon(0% 15%, 0 0, 15% 0%, 85% 0%, 100% 0, 100% 15%, 100% 85%, 50% 85%, 37% 100%, 15% 100%, 0 100%, 0% 85%)",
+          "polygon(0% 15%, 0 0, 15% 0%, 75% 0%, 100% 0, 100% 15%, 100% 75%, 40% 75%, 33% 100%, 15% 100%, 0 100%, 0% 75%)",
       }}
     >
       <div className="flex justify-between items-start m-2">
